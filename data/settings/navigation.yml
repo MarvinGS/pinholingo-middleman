@@ -1,7 +1,5 @@
 nav_items:
   - label: Start
     path: /
-  - label: Werke
-    path: /werke/
   - label: Aktuelles
     path: /news
